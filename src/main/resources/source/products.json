@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Dell Inspiron 15 Laptop",
+    "description": "Laptop with Intel i7, 16GB RAM, 512GB SSD",
+    "price": 4899.90,
+    "stock": 12,
+    "category": "Computers"
+  },
+  {
+    "id": "2",
+    "name": "Samsung Galaxy S24",
+    "description": "6.7'' AMOLED display, 256GB, 8GB RAM",
+    "price": 3999.00,
+    "stock": 25,
+    "category": "Smartphones"
+  },
+  {
+    "id": "3",
+    "name": "Sony WH-1000XM5",
+    "description": "Bluetooth headphones with noise cancellation",
+    "price": 2299.00,
+    "stock": 7,
+    "category": "Audio"
+  }
+]
